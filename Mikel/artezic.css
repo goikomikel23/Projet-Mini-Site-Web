@@ -1,0 +1,75 @@
+/*CHARTE GRAPHIQUE
+	
+	//Site Web//
+	
+	Gris claire: #838ea2
+	Gris noir: #595959
+	Orange: #f18d6d
+	Jaune: #f5df94
+	Rose: #e83e67 
+	
+	//Couleurs du logo//
+	
+	Gris claire: #838ea2
+	Orange: #e7734e
+	Vert: #f18d6d
+	
+	//Typographie #303030//
+	
+	Roboto Condensed Light
+	Roboto Condensed Regular
+	Roboto Condensed Bold
+	
+	//Tailles de Typographie//
+	
+	Titre: 20pt, 26px
+	Sous-titre: 15pt, 20px
+	Paragraphe: 10pt, 13px
+	
+*/
+
+body{
+	font-family: "Roboto Condensed";
+}
+
+header{
+	background-color: #595959;
+}
+
+footer{
+	background-color: #595959;
+	margin: 0px;
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+}
+
+.navPrincipal{
+	text-decoration: none;
+	color: white;
+}
+
+.navFooter{
+	text-decoration: none;
+	color: white;
+}
+
+
+/*Identificators*/
+
+#logoArtezic{
+	width: 40%;
+}
+
+#connexionLock{
+	width: 15px;
+	height: auto;
+}
+
+#connexion{
+	text-decoration: none;
+	color: white;
+}
+
+/*Classes*/
+
